@@ -1,0 +1,4 @@
+{
+  "queue_name": "1_queue",
+  "processing_minutes" : 20
+}
